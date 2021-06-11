@@ -8,7 +8,7 @@ public class Main {
         Dog dog = builder.getDog();
         System.out.println(dog);
         Dog.DogBuilder builder2 = new Dog.HuskyBuilder();
-        builder2.giveName("Kundzia");
+        builder2.giveName("Luna");
         builder2.setAge(8);
         builder2.addToy("selfie stick");
         builder2.addToy("rubber duck");
