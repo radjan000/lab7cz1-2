@@ -1,3 +1,7 @@
+package zadanie1;
+
+import zadanie1.Dog;
+
 public class Main {
     public static void main(String[] args) {
         Dog.DogBuilder builder = new Dog.ChihuahuaBuilder();

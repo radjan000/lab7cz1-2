@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ceedd74b-c613-4382-a8ea-39d76aa2eb16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie2/ComputerGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie2/ComputerGameAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie2/PCGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie2/PegiAgeRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie2/Requirements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie3/DesignPatternsFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB7/Dog$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB7/Dog$ChihuahuaBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB7/Dog$DogBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB7/Dog$HuskyBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB7/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie1/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1u9ePjFOpPObSWgGlJoZBHDCc4s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/zadanie2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\janas\IdeaProjects\LAB7\src\zadanie2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DesignPatternsFacade">
+    <configuration name="DesignPatternsFacade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie3.DesignPatternsFacade" />
+      <module name="LAB7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadanie3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie2.src.Main" />
+      <module name="LAB7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadanie2.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie2.Main" />
+      <module name="LAB7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadanie2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie1.Main" />
+      <module name="LAB7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DesignPatternsFacade" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceedd74b-c613-4382-a8ea-39d76aa2eb16" name="Default Changelist" comment="" />
+      <created>1624082211856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624082211856</updated>
+      <workItem from="1624082214969" duration="1704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
